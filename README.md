@@ -8,3 +8,4 @@
 5. 服务启动顺序：eureka -> mysql -> product,stock,order -> gateway -> portal
 # simple-microservice-master
 # simple-microservice-master
+test
